@@ -1,4 +1,4 @@
-module github.com/rogafe/proxmox-spice-quickconnect
+module proxmox-spice-quickconnect
 
 go 1.19
 
